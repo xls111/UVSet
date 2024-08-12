@@ -18,11 +18,11 @@ The dataset contains 2102 pairs of high-resolution images of size 512×512 from 
 
 **MaskUV**
 
-![](.\imgs\MaskUV.png)
+![](imgs/MaskUV.png)
 
 ### Result
 
-![](.\imgs\result.png)
+![](imgs/result.png)
 
 ## Download
 
